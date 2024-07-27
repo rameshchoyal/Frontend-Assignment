@@ -1,5 +1,3 @@
-// src/components/SubHeading.js
-
 import Image from "next/image";
 
 const SubHeading = () => {

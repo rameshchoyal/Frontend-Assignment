@@ -1,4 +1,3 @@
-// src/components/Sidebar.js
 import Image from "next/image";
 
 const Sidebar = () => {
